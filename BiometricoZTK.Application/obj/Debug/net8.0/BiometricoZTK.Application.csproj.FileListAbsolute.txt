@@ -1,0 +1,15 @@
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\bin\Debug\net8.0\BiometricoZTK.Application.deps.json
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\bin\Debug\net8.0\BiometricoZTK.Application.dll
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\bin\Debug\net8.0\BiometricoZTK.Application.pdb
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\bin\Debug\net8.0\BiometricoZTK.Domain.dll
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\bin\Debug\net8.0\BiometricoZTK.Domain.pdb
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.csproj.AssemblyReference.cache
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.AssemblyInfoInputs.cache
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.AssemblyInfo.cs
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.csproj.CoreCompileInputs.cache
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\Biometri.0602B07C.Up2Date
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.dll
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\refint\BiometricoZTK.Application.dll
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.pdb
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\ref\BiometricoZTK.Application.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BiometricoZTK.Application/BiometricoZTK.Application.csproj" />
+  <Project Path="BiometricoZTK.Domain/BiometricoZTK.Domain.csproj" />
+  <Project Path="BiometricoZTK.Infrastructure/BiometricoZTK.Infrastructure.csproj" />
+  <Project Path="BiometricoZTK/BiometricoZTK.csproj" />
+</Solution>
