@@ -3,60 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\controllers\\zkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\controllers\\zkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\services\\zkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\services\\zkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\services\\zkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\services\\zkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\interfaces\\izkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\interfaces\\izkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\controllers\\zkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\controllers\\zkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|solutionrelative:biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\services\\ztkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\services\\ztkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{190E8288-CBEB-4694-A4E3-79038D526317}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{190E8288-CBEB-4694-A4E3-79038D526317}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|solutionrelative:biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7878B2-AD68-D059-F171-1BD2E6DE71BF}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.domain\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7878B2-AD68-D059-F171-1BD2E6DE71BF}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|solutionrelative:biometricoztk.domain\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E419578B-2891-4D31-9A20-B8B26137CD56}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.domain\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E419578B-2891-4D31-9A20-B8B26137CD56}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|solutionrelative:biometricoztk.domain\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\services\\ztkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\services\\ztkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\interfaces\\izkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\interfaces\\izkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\serilogdependencies.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\serilogdependencies.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{190E8288-CBEB-4694-A4E3-79038D526317}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{190E8288-CBEB-4694-A4E3-79038D526317}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|solutionrelative:biometricoztk.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|solutionrelative:biometricoztk.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E419578B-2891-4D31-9A20-B8B26137CD56}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.domain\\entities\\actividadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E419578B-2891-4D31-9A20-B8B26137CD56}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|solutionrelative:biometricoztk.domain\\entities\\actividadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\interfaces\\izkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\interfaces\\izkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\interfaces\\izkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A66406-D7B7-409A-952C-8C156790071B}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\interfaces\\izkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\serilogdependencies.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BA89A944-2264-47DE-93AC-D24AB48C5599}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\serilogdependencies.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2D7878B2-AD68-D059-F171-1BD2E6DE71BF}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.domain\\entities\\actividadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7878B2-AD68-D059-F171-1BD2E6DE71BF}|BiometricoZTK.Domain\\BiometricoZTK.Domain.csproj|solutionrelative:biometricoztk.domain\\entities\\actividadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 187,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +82,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BiometricoZTK\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BiometricoZTK\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T02:54:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "RelativeToolTip": "BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:39:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IZKCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
+              "RelativeDocumentMoniker": "BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
+              "RelativeToolTip": "BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:22:16.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZKController.cs",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Controllers\\ZKController.cs",
+              "RelativeDocumentMoniker": "BiometricoZTK\\Controllers\\ZKController.cs",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Controllers\\ZKController.cs",
+              "RelativeToolTip": "BiometricoZTK\\Controllers\\ZKController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:41:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZKCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Services\\ZKCommandService.cs",
+              "RelativeDocumentMoniker": "BiometricoZTK.Application\\Services\\ZKCommandService.cs",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Services\\ZKCommandService.cs",
+              "RelativeToolTip": "BiometricoZTK.Application\\Services\\ZKCommandService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvwwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:22:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Program.cs",
+              "RelativeDocumentMoniker": "BiometricoZTK\\Program.cs",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Program.cs",
+              "RelativeToolTip": "BiometricoZTK\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:08:54.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\appsettings.json",
               "RelativeDocumentMoniker": "BiometricoZTK\\appsettings.json",
@@ -94,103 +168,11 @@
               "RelativeToolTip": "BiometricoZTK\\appsettings.json",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T03:37:58.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Program.cs",
-              "RelativeDocumentMoniker": "BiometricoZTK\\Program.cs",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Program.cs",
-              "RelativeToolTip": "BiometricoZTK\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:08:54.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BiometricoZTK\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BiometricoZTK\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T02:54:50.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T03:37:58.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AttendanceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
-              "RelativeDocumentMoniker": "BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
-              "RelativeToolTip": "BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwAcAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:39:52.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BiometricoZTK\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\appsettings.Development.json",
-              "RelativeToolTip": "BiometricoZTK\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T01:09:54.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IZKCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
-              "RelativeDocumentMoniker": "BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
-              "RelativeToolTip": "BiometricoZTK.Application\\Interfaces\\IZKCommandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T02:22:16.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ZKCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Services\\ZKCommandService.cs",
-              "RelativeDocumentMoniker": "BiometricoZTK.Application\\Services\\ZKCommandService.cs",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Services\\ZKCommandService.cs",
-              "RelativeToolTip": "BiometricoZTK.Application\\Services\\ZKCommandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T02:22:01.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ZKController.cs",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Controllers\\ZKController.cs",
-              "RelativeDocumentMoniker": "BiometricoZTK\\Controllers\\ZKController.cs",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Controllers\\ZKController.cs",
-              "RelativeToolTip": "BiometricoZTK\\Controllers\\ZKController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAADwvzcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:41:44.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IAttendanceRepository.cs",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Domain\\Interfaces\\IAttendanceRepository.cs",
               "RelativeDocumentMoniker": "BiometricoZTK.Domain\\Interfaces\\IAttendanceRepository.cs",
@@ -198,12 +180,11 @@
               "RelativeToolTip": "BiometricoZTK.Domain\\Interfaces\\IAttendanceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T02:08:23.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T02:08:23.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ZTKProcessingService.cs",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Services\\ZTKProcessingService.cs",
               "RelativeDocumentMoniker": "BiometricoZTK.Application\\Services\\ZTKProcessingService.cs",
@@ -211,12 +192,11 @@
               "RelativeToolTip": "BiometricoZTK.Application\\Services\\ZTKProcessingService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:24:17.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T01:24:17.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "SerilogDependencies.txt",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\SerilogDependencies.txt",
               "RelativeDocumentMoniker": "BiometricoZTK\\SerilogDependencies.txt",
@@ -224,8 +204,7 @@
               "RelativeToolTip": "BiometricoZTK\\SerilogDependencies.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-16T01:48:07.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T01:48:07.583Z"
             },
             {
               "$type": "Document",
@@ -237,12 +216,11 @@
               "RelativeToolTip": "BiometricoZTK.Infrastructure\\Persistence\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:38:40.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T01:38:40.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "IZKProcessingService.cs",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Interfaces\\IZKProcessingService.cs",
               "RelativeDocumentMoniker": "BiometricoZTK.Application\\Interfaces\\IZKProcessingService.cs",
@@ -250,12 +228,11 @@
               "RelativeToolTip": "BiometricoZTK.Application\\Interfaces\\IZKProcessingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:31:19.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T01:31:19.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ActividadLog.cs",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Domain\\Entities\\ActividadLog.cs",
               "RelativeDocumentMoniker": "BiometricoZTK.Domain\\Entities\\ActividadLog.cs",
@@ -263,8 +240,7 @@
               "RelativeToolTip": "BiometricoZTK.Domain\\Entities\\ActividadLog.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAEwBIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:17:24.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T01:17:24.691Z"
             }
           ]
         }

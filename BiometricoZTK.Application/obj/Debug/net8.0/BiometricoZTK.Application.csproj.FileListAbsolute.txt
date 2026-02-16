@@ -13,3 +13,4 @@ C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\refint\BiometricoZTK.Application.dll
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.pdb
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\ref\BiometricoZTK.Application.dll
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Application\obj\Debug\net8.0\BiometricoZTK.Application.sourcelink.json

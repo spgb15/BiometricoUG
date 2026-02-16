@@ -56,5 +56,16 @@ namespace BiometricoZTK.Controllers
             string respuesta = await _zkCommandService.GetPendingCommands(sn);
             return Ok(respuesta);
         }
+
+        [HttpPost("devicecmd")]
+        public async Task<IActionResult> DeviceCommandResponse([FromQuery] string SN)
+        {
+            using var reader = new StreamReader(Request.Body, Encoding.ASCII);
+            string responseBody = await reader.ReadToEndAsync();
+
+            Console.WriteLine($"[COMANDO FINALIZADO] Equipo: {SN}, Respuesta: {responseBody}");
+
+            return Ok("OK");
+        }
     }
 }

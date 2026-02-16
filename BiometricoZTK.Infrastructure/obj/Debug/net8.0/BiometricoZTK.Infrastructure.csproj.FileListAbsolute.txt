@@ -17,3 +17,4 @@ C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Infrastructure\obj\De
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Infrastructure\obj\Debug\net8.0\BiometricoZTK.Infrastructure.pdb
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Infrastructure\obj\Debug\net8.0\BiometricoZTK.Infrastructure.genruntimeconfig.cache
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Infrastructure\obj\Debug\net8.0\ref\BiometricoZTK.Infrastructure.dll
+C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Infrastructure\obj\Debug\net8.0\BiometricoZTK.Infrastructure.sourcelink.json
