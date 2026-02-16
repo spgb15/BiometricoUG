@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spguerra\\source\\repos\\PruebaZTK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226AC3EB-CD6E-358F-0EC7-DD4462B2501C}|PruebaZTK\\PruebaZTK.csproj|c:\\users\\spguerra\\source\\repos\\pruebaztk\\pruebaztk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226AC3EB-CD6E-358F-0EC7-DD4462B2501C}|PruebaZTK\\PruebaZTK.csproj|solutionrelative:pruebaztk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\PruebaZTK\\PruebaZTK\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaZTK\\Program.cs",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\PruebaZTK\\PruebaZTK\\Program.cs",
+              "RelativeToolTip": "PruebaZTK\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:33:25.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
