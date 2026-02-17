@@ -29,6 +29,18 @@ namespace BiometricoZTK.Controllers
         [HttpPost("cdata")]
         public async Task<IActionResult> ReceiveData([FromQuery] string? SN, [FromQuery] string? table)
         {
+            if(table == "ALARM")
+            {
+                Request.EnableBuffering();
+                using var reader = new StreamReader(Request.Body, Encoding.ASCII);
+                string Alarma = await reader.ReadToEndAsync();
+
+                Console.WriteLine("$\"!!! ALERTA DE SEGURIDAD - EQUIPO: {SN} !!!\"");
+                Console.WriteLine($"Detalle del sabotaje: {Alarma}");
+
+                return Ok("OK");
+            }
+
             if (table != "ATTLOG") return Ok("OK");
 
             try
