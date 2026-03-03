@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiometricoZTK.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae8eee43f98ec9c989bb1315d577a543210b414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+553d6013528eff36d976051ffef2ed9b44079e41")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiometricoZTK.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiometricoZTK.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,15 @@ C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Domain\obj\Debug\net8
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Domain\obj\Debug\net8.0\refint\BiometricoZTK.Domain.dll
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.pdb
 C:\Users\spguerra\source\repos\BiometricoZTK\BiometricoZTK.Domain\obj\Debug\net8.0\ref\BiometricoZTK.Domain.dll
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\bin\Debug\net8.0\BiometricoZTK.Domain.deps.json
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\bin\Debug\net8.0\BiometricoZTK.Domain.dll
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\bin\Debug\net8.0\BiometricoZTK.Domain.pdb
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.AssemblyInfoInputs.cache
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.AssemblyInfo.cs
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.csproj.CoreCompileInputs.cache
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.sourcelink.json
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.dll
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\refint\BiometricoZTK.Domain.dll
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\BiometricoZTK.Domain.pdb
+F:\ProyectosGIT\BiometricoUG\BiometricoZTK.Domain\obj\Debug\net8.0\ref\BiometricoZTK.Domain.dll

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\biometricoztk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\biometricoztk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\logging_readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\logging_readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.application\\services\\ztkprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{19EFF8C4-D6E4-A720-B5F4-5011523E4AF5}|BiometricoZTK.Application\\BiometricoZTK.Application.csproj|solutionrelative:biometricoztk.application\\services\\zkcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|solutionrelative:biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\controllers\\zkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|solutionrelative:biometricoztk\\controllers\\zkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29253E04-D73A-F500-015D-A9CAC5636EF4}|BiometricoZTK.Infrastructure\\BiometricoZTK.Infrastructure.csproj|solutionrelative:biometricoztk.infrastructure\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E749FD7-2995-C1F2-B6C0-2221C0726C4D}|BiometricoZTK\\BiometricoZTK.csproj|c:\\users\\spguerra\\source\\repos\\biometricoztk\\biometricoztk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,19 +87,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BiometricoZTK",
-              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\BiometricoZTK.csproj",
-              "RelativeDocumentMoniker": "BiometricoZTK\\BiometricoZTK.csproj",
-              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\BiometricoZTK.csproj",
-              "RelativeToolTip": "BiometricoZTK\\BiometricoZTK.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-17T19:09:23.465Z",
+              "Title": "LOGGING_README.md",
+              "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\LOGGING_README.md",
+              "RelativeDocumentMoniker": "BiometricoZTK\\LOGGING_README.md",
+              "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\LOGGING_README.md",
+              "RelativeToolTip": "BiometricoZTK\\LOGGING_README.md",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-18T16:31:16.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AttendanceRepository.cs",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
               "RelativeDocumentMoniker": "BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
@@ -107,19 +107,21 @@
               "RelativeToolTip": "BiometricoZTK.Infrastructure\\Repositories\\AttendanceRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAD4vw8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:39:52.743Z"
+              "WhenOpened": "2026-02-16T01:39:52.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ZKController.cs",
               "DocumentMoniker": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Controllers\\ZKController.cs",
               "RelativeDocumentMoniker": "BiometricoZTK\\Controllers\\ZKController.cs",
               "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK\\Controllers\\ZKController.cs",
               "RelativeToolTip": "BiometricoZTK\\Controllers\\ZKController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAwC0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwBUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T01:41:44.596Z"
+              "WhenOpened": "2026-02-16T01:41:44.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,9 +131,10 @@
               "RelativeDocumentMoniker": "BiometricoZTK.Application\\Services\\ZKCommandService.cs",
               "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Services\\ZKCommandService.cs",
               "RelativeToolTip": "BiometricoZTK.Application\\Services\\ZKCommandService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T02:22:01.721Z"
+              "WhenOpened": "2026-02-16T02:22:01.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -153,7 +156,7 @@
               "RelativeDocumentMoniker": "BiometricoZTK.Application\\Services\\ZTKProcessingService.cs",
               "ToolTip": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\Services\\ZTKProcessingService.cs",
               "RelativeToolTip": "BiometricoZTK.Application\\Services\\ZTKProcessingService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAawA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T01:24:17.64Z",
               "EditorCaption": ""

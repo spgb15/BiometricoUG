@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "31bxfj4sDK0=",
+  "dgSpecHash": "Fp61yV0foVU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\spguerra\\source\\repos\\BiometricoZTK\\BiometricoZTK.Application\\BiometricoZTK.Application.csproj",
+  "projectFilePath": "F:\\ProyectosGIT\\BiometricoUG\\BiometricoZTK.Application\\BiometricoZTK.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\spguerra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\spaul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

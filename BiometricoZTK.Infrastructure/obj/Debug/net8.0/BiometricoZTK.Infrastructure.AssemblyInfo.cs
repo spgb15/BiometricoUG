@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiometricoZTK.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e26497b21eda0914e490b33827d19394af9c5155")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+553d6013528eff36d976051ffef2ed9b44079e41")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiometricoZTK.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiometricoZTK.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
