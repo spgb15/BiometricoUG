@@ -1,0 +1,36 @@
+## Visual Studio Temp Files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docattachments
+
+## .NET Core / ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+out/
+stylecop.json
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+## Secrets and Config (¡MUY IMPORTANTE!)
+# No subir secretos reales, usa appsettings.Development.json para pruebas
+appsettings.json
+!appsettings.json
+appsettings.Development.json
+
+## Node.js (Si usas Metronic con Gulp/NPM)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+## Entity Framework
+*.db
+*.db-shm
+*.db-wal
