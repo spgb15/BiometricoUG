@@ -14,4 +14,10 @@ namespace BiometricoZTK.Application.DTO
         public DateTime Expiration { get; set; }
 
     }
+
+    public class AuthRequest
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
 }

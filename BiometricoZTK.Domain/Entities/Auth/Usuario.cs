@@ -13,5 +13,6 @@ namespace BiometricoZTK.Domain.Entities.Auth
         public string PasswordHash { get; set; } = string.Empty;
         public long RolId { get; set; }
         public Rol Rol { get; set; } = new Rol();
+        public bool DebeCambiarContraseña { get; set; } = true;
     }
 }

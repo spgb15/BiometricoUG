@@ -20,12 +20,15 @@ namespace BiometricoZTK.Infrastructure.Services
             _config = config;
         }
 
-        public string GenerarToken(string email, string rol)
+        public string GenerarToken(string email, long rol, string nombre, long userId)
         {
             var claims = new List<Claim>
             {
+                new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
                 new Claim(JwtRegisteredClaimNames.Email, email),
-                new Claim(ClaimTypes.Role, rol)
+                new Claim(JwtRegisteredClaimNames.Name, nombre),
+                new Claim(ClaimTypes.Role, rol.ToString()),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:SecretKey"]));

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BiometricoZTK.Application.Interfaces.Auth
 {
-    internal class IJwtSerivce
+    public interface IJwtSerivce
     {
+        string GenerarToken(string email, long rol, string nombre, long userId);
     }
 }

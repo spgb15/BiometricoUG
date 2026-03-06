@@ -3,7 +3,6 @@
     public class EntityBase
     {
         public long Id { get; set; }
-
         public bool Activo { get; set; }
         public DateTime Created { get; set; } = DateTime.UtcNow;
         public string CreatedBy { get; set; } = string.Empty;
