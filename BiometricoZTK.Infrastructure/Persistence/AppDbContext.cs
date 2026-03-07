@@ -1,4 +1,4 @@
-﻿using BiometricoZTK.Domain.Entities;
+using BiometricoZTK.Domain.Entities;
 using BiometricoZTK.Domain.Entities.Auth;
 using Microsoft.EntityFrameworkCore;
 

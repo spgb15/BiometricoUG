@@ -1,4 +1,4 @@
-﻿using BiometricoZTK.Domain.Entities.Auth;
+using BiometricoZTK.Domain.Entities.Auth;
 using BiometricoZTK.Domain.Interfaces;
 using BiometricoZTK.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
@@ -50,10 +50,16 @@ namespace BiometricoZTK.Infrastructure.Repositories.Auth
             if (usuario == null) return false;
 
             usuario.PasswordHash = nuevoHash;
+            usuario.DebeCambiarContraseña = false;
             usuario.Updated = DateTime.Now;
             usuario.UpdatedBy = "System";
 
             return await _context.SaveChangesAsync() > 0;
+        }
+
+        public async Task<bool> ExisteRolAsync(long rolId)
+        {
+            return await _context.Rol.AnyAsync(r => r.Id == rolId && r.Activo);
         }
     }
 }

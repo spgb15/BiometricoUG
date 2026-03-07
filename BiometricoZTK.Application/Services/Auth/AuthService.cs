@@ -1,4 +1,4 @@
-﻿using BiometricoZTK.Application.DTO;
+using BiometricoZTK.Application.DTO;
 using BiometricoZTK.Application.Interfaces.Auth;
 using BiometricoZTK.Domain.Entities.Auth;
 using BiometricoZTK.Domain.Interfaces;
@@ -52,13 +52,23 @@ namespace BiometricoZTK.Application.Services.Auth
             {
                 Success = true,
                 Message = "Login Exitoso",
-                Token = token
+                Token = token,
+                DebeCambiarContraseña = usuario.DebeCambiarContraseña
             };
         }
 
         public async Task<AuthResponse> RegistrarUsuarioAsync(RegisterRequest register)
         {
             if(register == null) { throw new ArgumentNullException(nameof(register)); }
+
+            if (!await _repository.ExisteRolAsync(register.RolId))
+            {
+                return new AuthResponse
+                {
+                    Success = false,
+                    Message = "El rol especificado no existe o no está activo."
+                };
+            }
 
             if (await _repository.ExisteCorreoAsync(register.Email))
             {

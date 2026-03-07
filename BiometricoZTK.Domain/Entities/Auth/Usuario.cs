@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,7 @@ namespace BiometricoZTK.Domain.Entities.Auth
         public string Correo { get; set; } = string.Empty;
         public string PasswordHash { get; set; } = string.Empty;
         public long RolId { get; set; }
-        public Rol Rol { get; set; } = new Rol();
+        public Rol? Rol { get; set; }
         public bool DebeCambiarContraseña { get; set; } = true;
     }
 }

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,10 @@ namespace BiometricoZTK.Application.DTO
         public string Message { get; set; } = string.Empty;
         public string Token { get; set; } = string.Empty;
         public DateTime Expiration { get; set; }
-
+        /// <summary>
+        /// Indica si el usuario debe cambiar la contraseña (p. ej. primer acceso o contraseña temporal).
+        /// </summary>
+        public bool DebeCambiarContraseña { get; set; }
     }
 
     public class AuthRequest

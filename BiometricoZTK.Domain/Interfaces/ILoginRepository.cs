@@ -1,4 +1,4 @@
-﻿using BiometricoZTK.Domain.Entities.Auth;
+using BiometricoZTK.Domain.Entities.Auth;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,5 +15,7 @@ namespace BiometricoZTK.Domain.Interfaces
         Task<bool> ActualizarPassword(long UsuarioId, string nuevoHash);
 
         Task<Usuario> GetByIdAsync(long Id);
+
+        Task<bool> ExisteRolAsync(long rolId);
     }
 }
